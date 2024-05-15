@@ -18,6 +18,13 @@
             "type": "dart",
             "program": "lib/practice2.dart"
         },
+        {
+            "name": "Run CECOM pratice_flutter.dart",
+            "cwd": "flutter_practice_application",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/CECOM_Study/practice_flutter.dart"
+        },
         // {
         //     "name": "flutter_practice_application (profile mode)",
         //     "cwd": "flutter_practice_application",
